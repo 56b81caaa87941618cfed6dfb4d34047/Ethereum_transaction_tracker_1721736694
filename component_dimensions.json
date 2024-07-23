@@ -70,5 +70,23 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "particle_component_1721736779.js": {
+        "id": "particle_component-9f7d1034-a473-c0b3-476c-3be9daa751c3",
+        "name": "particle_component",
+        "type": "containerComponent",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
