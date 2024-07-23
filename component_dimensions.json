@@ -92,5 +92,23 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "chatbot_1721736783.js": {
+        "id": "chatbot-2e1f044a-bb36-c367-e4a1-8b222fb22ed4",
+        "name": "chatbot",
+        "type": "containerComponent",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
