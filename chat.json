@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a sidebar with the fields home, about and contact",
+        "message_id": "guest23072024121204",
+        "timestamp": "23072024121205",
+        "component_file_name": "simple_footer_component_1721736695",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I am adding a sidebar with the fields home, about, and contact.",
         "message_id": "guest23072024121204",
