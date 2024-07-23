@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be always visible or should it be collapsible?\", \"option1\": \"Always visible\", \"option2\": \"Collapsible\"}, {\"question 2\": \"Should the sidebar be positioned on the left or right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 265, \"output_token_count\": 83, \"time_taken\": \"0:00:02.712621\"}",
         "timestamp": "23072024121208",
         "message_id": "guest23072024121204"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time transaction alert system to notify users of new transactions\", \"checked\": true}, {\"feature\": \"Filter and search functionality for transactions by address, value, or date\", \"checked\": false}, {\"feature\": \"Interactive dashboard with graphs showing transaction trends over time\", \"checked\": false}, {\"feature\": \"User customization settings to personalize alert frequencies and topics\", \"checked\": true}, {\"feature\": \"Privacy mode to obscure transaction values for public viewing\", \"checked\": false}, {\"feature\": \"Feedback form to collect user suggestions and report issues\", \"checked\": true}], \"input_token_count\": 219, \"output_token_count\": 133, \"time_taken\": \"0:00:04.229554\"}",
+        "timestamp": "23072024121210",
+        "message_id": "guest23072024121204"
     }
 ]
