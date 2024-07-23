@@ -12,5 +12,11 @@
         "content": "Alright, I am adding a sidebar with the fields home, about, and contact.",
         "timestamp": "23072024121205",
         "message_id": "guest23072024121204"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the fields home, about and contact",
+        "timestamp": "23072024121205",
+        "message_id": "guest23072024121204"
     }
 ]
