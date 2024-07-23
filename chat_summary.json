@@ -18,5 +18,11 @@
         "content": "add a sidebar with the fields home, about and contact",
         "timestamp": "23072024121205",
         "message_id": "guest23072024121204"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be always visible or should it be collapsible?\", \"option1\": \"Always visible\", \"option2\": \"Collapsible\"}, {\"question 2\": \"Should the sidebar be positioned on the left or right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 265, \"output_token_count\": 83, \"time_taken\": \"0:00:02.712621\"}",
+        "timestamp": "23072024121208",
+        "message_id": "guest23072024121204"
     }
 ]
